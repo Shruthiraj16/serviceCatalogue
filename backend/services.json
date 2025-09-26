@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Website Development",
+    "description": "End-to-end responsive website for businesses and startups.",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "name": "Mobile App Development",
+    "description": "Cross-platform mobile applications with modern UI/UX.",
+    "price": 30000
+  },
+  {
+    "id": 3,
+    "name": "Digital Marketing",
+    "description": "SEO, social media marketing, and ads management services.",
+    "price": 12000
+  },
+  {
+    "id": 4,
+    "name": "Branding & Logo Design",
+    "description": "Creative branding packages including logos and brand guidelines.",
+    "price": 8000
+  }
+]
